@@ -1,0 +1,25 @@
+This README file contains information on the contents of the meta-mylayer layer.
+
+Please see the corresponding sections below for details
+
+Dependencies
+============
+
+  URI: first dependency
+  branch: branch name
+
+  URI: second dependency
+  branch: branch name
+
+  .
+  .
+  .
+Patches
+=======
+
+Please submit any patches against the meta-mylayer layer to the xxx mailing list (xxxx@zzzz.org)
+and cc: the maintainer
+
+Maintainer: XXX YYYYY xxx.yyyyy@zzzzz.com
+
+  
